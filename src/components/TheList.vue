@@ -37,7 +37,7 @@ export default {
     counter-reset: items;
 
     li {
-        padding: calcRem(15px) calcRem(30px);
+        padding: calcRem(15px) 0;
         color: $red-light;
         text-transform: capitalize;
         counter-increment: items;
