@@ -65,6 +65,7 @@ export default {
 
                 this.data.startPage = false;
                 this.data.title = data.name;
+                window.scrollTo(0, 0);
             })
             .catch(error => { console.log(error); });
         },

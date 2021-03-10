@@ -1,8 +1,5 @@
 # Pokédex
-This is an **application**, check here for the [demo](https://aldopolojr-pokedex.netlify.app/)
+A modest [Pokédex](https://aldopolojr-pokedex.netlify.app/) working with and external API.
 
-## Notes
-- …
-
-## Tags
-#VUE #API
+## Category
+application
